@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: Explores the relationship between college students as friends and competitors.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45140#On-Your-Mark--A-Story-of-College-Life-and-Athletics
 gutenberg_issued: '2014-03-15'
 gutenberg_type: Text
 identifiers:
